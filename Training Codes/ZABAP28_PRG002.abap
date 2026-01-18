@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *& Author: Abhinav Singh
 *&---------------------------------------------------------------------*
-*& Short Description: Program to add two numbers.
+*& Short Description: Add two numbers by taking input.
 *&---------------------------------------------------------------------*
 REPORT zabap28_prg002.
 

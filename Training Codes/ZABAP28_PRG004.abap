@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *& Author: Abhinav Singh
 *&---------------------------------------------------------------------*
-*& Short Description: Program to manipulate and concatenate strings using offset technique.
+*& Short Description: Manipulate and concatenate strings using offset technique.
 *&---------------------------------------------------------------------*
 REPORT zabap28_prg004.
 

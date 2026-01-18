@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *& Author: Abhinav Singh
 *&---------------------------------------------------------------------*
-*& Short Description: Program to calculate circumference of circle.
+*& Short Description: Calculate circumference of circle.
 *&---------------------------------------------------------------------*
 REPORT zabap28_prg003.
 
