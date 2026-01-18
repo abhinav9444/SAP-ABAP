@@ -11,7 +11,7 @@ All programs are written following **SAP naming conventions and coding standards
 
 | Program Name | Description |
 |-------------|------------|
-| [ZABAP28_PRG001.abap](./Training Codes/ZABAP28_PRG002.abap) | Program to add two numbers using PARAMETERS |
+| [ZABAP28_PRG001.abap](./Training%20Codes/ZABAP28_PRG002.abap) | Program to add two numbers using PARAMETERS |
 | [ZABAP28_PRG002.abap](./ZABAP28_PRG004.abap) | Demonstrates string handling using MOVE statement |
 | [ZABAP28_PRG003.abap](./Z_22051564_PRG_007.abap) | Fetches and displays flight data from SFLIGHT table |
 | [ZABAP28_PRG004.abap](./Z_ABAP_PROG_105.abap) | Uses structure and internal table for employee data |
