@@ -3,6 +3,9 @@
 *&---------------------------------------------------------------------*
 *& Author: Abhinav Singh
 *&---------------------------------------------------------------------*
+*& Short Description: First Program with Comments and Write statement.
+*&---------------------------------------------------------------------*
+
 REPORT zabap28_prg001.   "Comment Version - 1"
 WRITE 'Hello Abhinav !'. "This is a inline comment placed after first column. This can be used to place comments anywhere."
 
