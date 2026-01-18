@@ -11,10 +11,10 @@ All programs are written following **SAP naming conventions and coding standards
 
 | Program Name | Description |
 |-------------|------------|
-| [ZABAP28_PRG001.abap](./Training%20Codes/ZABAP28_PRG001.abap) | Program to add two numbers using PARAMETERS |
-| [ZABAP28_PRG002.abap](./Training%20Codes/ZABAP28_PRG002.abap) | Demonstrates string handling using MOVE statement |
-| [ZABAP28_PRG003.abap](./Training%20Codes/ZABAP28_PRG003.abap) | Fetches and displays flight data from SFLIGHT table |
-| [ZABAP28_PRG004.abap](./Training%20Codes/ZABAP28_PRG004.abap) | Uses structure and internal table for employee data |
+| [ZABAP28_PRG001.abap](./Training%20Codes/ZABAP28_PRG001.abap) | First Program with Comments and Write statement. |
+| [ZABAP28_PRG002.abap](./Training%20Codes/ZABAP28_PRG002.abap) | Add two numbers by taking input. |
+| [ZABAP28_PRG003.abap](./Training%20Codes/ZABAP28_PRG003.abap) | Calculate circumference of circle. |
+| [ZABAP28_PRG004.abap](./Training%20Codes/ZABAP28_PRG004.abap) | Manipulate and concatenate strings using offset technique. |
 
 
 ---
