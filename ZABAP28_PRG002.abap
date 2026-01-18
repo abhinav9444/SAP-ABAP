@@ -7,8 +7,8 @@
 *&---------------------------------------------------------------------*
 REPORT zabap28_prg002.
 
+DATA: result TYPE i.
 PARAMETERS: n1 TYPE i,
             n2 TYPE i.
-DATA result TYPE i VALUE 0.
 result = n1 + n2.
-WRITE result.
+WRITE: / 'Result:', result.
