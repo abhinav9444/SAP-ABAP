@@ -18,7 +18,7 @@ gs_employee-emp_id = 101.
 gs_employee-emp_name = 'Ravi'.
 gs_employee-salary = '45000.50'.
 
-CLEAR gs_employee. "This resets all values in the structure variable gs_employee.
+CLEAR gs_employee. "This resets all values in the structure variable gs_employee."
 
 WRITE: / 'Employee ID   :', gs_employee-emp_id,
        / 'Employee Name :', gs_employee-emp_name,
