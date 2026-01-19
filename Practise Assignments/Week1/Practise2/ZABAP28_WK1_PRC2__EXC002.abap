@@ -7,7 +7,7 @@
 *&---------------------------------------------------------------------*
 REPORT zabap28_wk1_prc2__exc002.
 
-* Code Given in PRC-2, EXC-2 :
+* Code Given in WK1, PRC-2, EXC-2 :
 *DATA gt_conn TYPE STANDARD TABLE OF spfli.
 * SELECT carrid connid cityfrom cityto
 *  FROM spfli
