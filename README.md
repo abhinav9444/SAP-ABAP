@@ -11,7 +11,7 @@ All programs are written following **SAP naming conventions and coding standards
 
 ## 📂 Training Codes Index
 
-| Program Name | Description |
+| Program Name | Short Description |
 |-------------|------------|
 | [ZABAP28_PRG001.abap](./Training%20Codes/ZABAP28_PRG001.abap) | First Program with Comments and Write statement. |
 | [ZABAP28_PRG002.abap](./Training%20Codes/ZABAP28_PRG002.abap) | Add two numbers by taking input. |
@@ -20,9 +20,9 @@ All programs are written following **SAP naming conventions and coding standards
 
 
 ## 📂 Practise Codes Index
-##  Week 1 - Practise 1 
+## 📅 Week 1 - Practise 1 
 
-| Program Name | Description |
+| Program Name | Short Description |
 |-------------|------------|
 | [ZABAP28_PRG001.abap](./Training%20Codes/ZABAP28_PRG001.abap) | First Program with Comments and Write statement. |
 | [ZABAP28_PRG002.abap](./Training%20Codes/ZABAP28_PRG002.abap) | Add two numbers by taking input. |
