@@ -6,7 +6,7 @@
 *& Short Description: First Program with Comments and Write statement.
 *&---------------------------------------------------------------------*
 
-REPORT zabap28_prg001.   "-- This lines is like main() in C -- Acts as starting point for the program."
+REPORT zabap28_prg001.   "-- This lines is like main() in C language -- Acts as a starting point for the program."
 
 WRITE 'SAP ABAP'.        "Comment Type - 1"
 WRITE 'Hello Abhinav !'. "This is a inline comment placed after first column. This can be used to place comments anywhere."
