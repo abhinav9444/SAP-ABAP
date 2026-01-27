@@ -19,8 +19,8 @@ All programs are written following **SAP naming conventions and coding standards
 | [ZABAP28_PRG004.abap](./Training%20Codes/ZABAP28_PRG004.abap) | Manipulate and concatenate strings using offset technique. |
 
 
-## 📂 Practise Codes Index
-## 📅 Week 1 - Practise 1 
+## 📂 Practice Codes Index
+## 📅 Week 1 - Practice 1 
 
 | Program Name | Short Description |
 |-------------|------------|
