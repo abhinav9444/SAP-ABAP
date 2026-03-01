@@ -1,5 +1,6 @@
 *&---------------------------------------------------------------------*
 *& Report ZABAP28_PRG005
+*& Author: Abhinav Singh
 *&---------------------------------------------------------------------*
 *& Short Description : Structure declaration, data assignment to Structure
 *& variable and output using normal and inline initialization
